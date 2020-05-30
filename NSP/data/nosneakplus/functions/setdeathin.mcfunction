@@ -1,0 +1,2 @@
+#NSP datapack. Made by MaxTheTomas. https://discord.gg/S2keanA 
+execute store result score @s deathin run scoreboard players get @e[tag=nspconfig,limit=1,type=minecraft:armor_stand,scores={cfg_deathin=0..}] cfg_deathin

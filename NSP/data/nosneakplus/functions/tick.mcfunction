@@ -12,3 +12,7 @@ kill @e[scores={deathin=..0}]
 
 #UNCOMMENT TO USE CUSTOM COMMANDS:
 #execute as @e[scores={deathin=..0}] at @e[scores={deathin=..0}] run function nosneakplus:customcommands
+
+
+
+#meow
